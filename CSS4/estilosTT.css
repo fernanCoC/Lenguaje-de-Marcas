@@ -1,0 +1,42 @@
+body, html {
+    text-align: center;
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 35px;
+    color: #000000;
+}
+
+.uppercase {
+
+    margin-top: 60px;
+    font-size: 19px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ac0087;
+}
+
+.lowercase {
+    margin-top: 60px;
+    font-size: 19px;
+    text-transform: lowercase;
+    font-style: italic;
+    color: #690239;
+}
+
+.capitalize {
+    margin-top: 60px;
+    font-size: 19px;
+    text-transform: capitalize;
+    color: #01151f;
+}
+.info{
+
+    margin-top: 80px;
+    font-size: 25px;
+    font-style: arial;
+}

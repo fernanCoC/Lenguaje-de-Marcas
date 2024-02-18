@@ -1,0 +1,42 @@
+
+body, html {
+    text-align: center;
+    height: 100%;
+    margin: 0;
+    font-size: 25px;
+}
+
+h1 {
+  text-decoration: underline;
+    color: #000000;
+}
+
+.text-shadow- {
+    margin-top: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #000000;
+    text-shadow: 1px 1px 1px rgb(13, 255, 0); /* Desplazamiento horizontal, desplazamiento vertical, desenfoque y color */
+}
+.text-shadow-sombrainter {
+    margin-top: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #000000;
+    text-shadow: 3px 3px 3px rgb(13, 255, 0); /* Desplazamiento horizontal, desplazamiento vertical, desenfoque y color */
+}
+.text-shadow-massombra{
+    margin-top: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #000000;
+    text-shadow: 6px 6px 6px rgb(13, 255, 0); /* Desplazamiento horizontal, desplazamiento vertical, desenfoque y color */
+}
+.info{
+    margin-top: 50px;
+    font-size: 20px
+
+
+
+
+}

@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-top: 200px;
+}
+
+.border-image-example {
+    width: 400px;
+    height: 200px;
+    margin: 50px auto;
+    border-width: 20px;
+    border-style: solid;
+    border-image: url('https://tse1.mm.bing.net/th?id=OIP.NLO10wR9JH1-HIQvAHXq5wAAAA&pid=Api&P=0&h=180') 30 round;
+    text-align: center;
+    border-image-slice: 20;
+}
+
+h1, p {
+    margin: 0;
+    padding: 10px;
+}
+
+.parrafo {
+    margin-top: 25px;
+}
